@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.17
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kampIntro", "kampIntro\kampIntro.csproj", "{68FD85A3-28AC-4A0B-94B0-D163BDAED549}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donguler", "Donguler\Donguler.csproj", "{263A3606-909B-431C-8752-1F2B20608F97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{A14CEE4C-D898-49EB-AE74-2026602C3FDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68FD85A3-28AC-4A0B-94B0-D163BDAED549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68FD85A3-28AC-4A0B-94B0-D163BDAED549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68FD85A3-28AC-4A0B-94B0-D163BDAED549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68FD85A3-28AC-4A0B-94B0-D163BDAED549}.Release|Any CPU.Build.0 = Release|Any CPU
+		{263A3606-909B-431C-8752-1F2B20608F97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{263A3606-909B-431C-8752-1F2B20608F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{263A3606-909B-431C-8752-1F2B20608F97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{263A3606-909B-431C-8752-1F2B20608F97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A14CEE4C-D898-49EB-AE74-2026602C3FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A14CEE4C-D898-49EB-AE74-2026602C3FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A14CEE4C-D898-49EB-AE74-2026602C3FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A14CEE4C-D898-49EB-AE74-2026602C3FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0F08938-BB23-406C-BA3D-6775824B8CAA}
+	EndGlobalSection
+EndGlobal

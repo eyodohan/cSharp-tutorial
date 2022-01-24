@@ -1,0 +1,15 @@
+/Users/admin/Projects/kampIntro/Donguler/bin/Debug/net5.0/Donguler.deps.json
+/Users/admin/Projects/kampIntro/Donguler/bin/Debug/net5.0/Donguler.runtimeconfig.json
+/Users/admin/Projects/kampIntro/Donguler/bin/Debug/net5.0/Donguler.runtimeconfig.dev.json
+/Users/admin/Projects/kampIntro/Donguler/bin/Debug/net5.0/Donguler.dll
+/Users/admin/Projects/kampIntro/Donguler/bin/Debug/net5.0/ref/Donguler.dll
+/Users/admin/Projects/kampIntro/Donguler/bin/Debug/net5.0/Donguler.pdb
+/Users/admin/Projects/kampIntro/Donguler/obj/Debug/net5.0/Donguler.csproj.AssemblyReference.cache
+/Users/admin/Projects/kampIntro/Donguler/obj/Debug/net5.0/Donguler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Projects/kampIntro/Donguler/obj/Debug/net5.0/Donguler.AssemblyInfoInputs.cache
+/Users/admin/Projects/kampIntro/Donguler/obj/Debug/net5.0/Donguler.AssemblyInfo.cs
+/Users/admin/Projects/kampIntro/Donguler/obj/Debug/net5.0/Donguler.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/kampIntro/Donguler/obj/Debug/net5.0/Donguler.dll
+/Users/admin/Projects/kampIntro/Donguler/obj/Debug/net5.0/ref/Donguler.dll
+/Users/admin/Projects/kampIntro/Donguler/obj/Debug/net5.0/Donguler.pdb
+/Users/admin/Projects/kampIntro/Donguler/obj/Debug/net5.0/Donguler.genruntimeconfig.cache
